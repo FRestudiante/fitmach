@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66469970407",
+    "project_id": "fitmach-ce9c6",
+    "storage_bucket": "fitmach-ce9c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66469970407:android:2f5f4e469ddba8cdf4fd42",
+        "android_client_info": {
+          "package_name": "com.ceduc.fitmach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaPZBXCByjxcyGH6YmVdB66gTvpOIrdh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
